@@ -50,6 +50,9 @@ int Character::getAttackPower() {
     return attackPower;
 }
 
+void Character::increaseHealth(int amount) {
+    health += amount;
+}
 void Character::increaseAttackPower(int amount) {
     attackPower += amount;
 }
@@ -85,10 +88,28 @@ void displayStatus(const vector<Character*>& characters) {
         cout << i + 1 << ": " << characters[i]->getName() << " - Mau: " << characters[i]->getHealth() << " - ST : " << characters[i]->getAttackPower() << (characters[i]->isAlive() ? " (Live)" : " (Death)") << endl;
     }
 }
+void applyBattleBoost(Character& player, Character& bot) {
+    if (player.getName() == "Dau si" && bot.getName() == "Cung thu") {
+        player.increaseHealth(5);
+        player.increaseAttackPower(5);
+        cout << "Dau si gap Cung thu! Dau si tang 5 mau va 5 sat thuong!" << std::endl;
+    }
+    else if (player.getName() == "Cung thu" && bot.getName() == "Phap su") {
+        player.increaseHealth(5);
+        player.increaseAttackPower(5);
+        cout << "Cung thu gap Phap su! Cung thu tang 5 mau va 5 sat thuong!" << std::endl;
+    }
+    else if (player.getName() == "Phap su" && bot.getName() == "Dau si") {
+        player.increaseHealth(5);
+        player.increaseAttackPower(5);
+        cout << "Phap su gap Dau si! Phap su tang 5 mau va 5 sat thuong!" << std::endl;
+    }
+}
 
 void battle(Character& player, Character& bot) {
     cout << player.getName() << " dau voi " << bot.getName() << endl;
-
+    applyBattleBoost(player, bot);
+    applyBattleBoost(bot, player);
     int playerChoice;
     cout << "Chon hanh dong cua ban: 1. Tan cong, 2. Phong thu: ";
     cout << "\n====================================================" << endl;

@@ -23,6 +23,7 @@ public:
     string getName();
     int getHealth();
     int getAttackPower();
+    void increaseHealth(int amount);
     void increaseAttackPower(int amount);
     bool isAlive();
     virtual ~Character() {}
@@ -45,6 +46,7 @@ public:
 
 Character* createRandomCharacter(const string& type);
 void displayStatus(const vector<Character*>& characters);
+void applyBattleBoost(Character& player, Character& bot);
 void battle(Character& player, Character& bot);
 void gamerpg(Account* user);
 
