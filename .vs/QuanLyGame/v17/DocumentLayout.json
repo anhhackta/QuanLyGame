@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\QuanLyGame\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A71371BD-89DB-403A-ACB0-FACC17220CC0}|QuanLyGame\\QuanLyGame.vcxproj|D:\\QuanLyGame\\QuanLyGame\\Data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A71371BD-89DB-403A-ACB0-FACC17220CC0}|QuanLyGame\\QuanLyGame.vcxproj|solutionrelative:QuanLyGame\\Data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A71371BD-89DB-403A-ACB0-FACC17220CC0}|QuanLyGame\\QuanLyGame.vcxproj|D:\\QuanLyGame\\QuanLyGame\\QuanLyGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A71371BD-89DB-403A-ACB0-FACC17220CC0}|QuanLyGame\\QuanLyGame.vcxproj|solutionrelative:QuanLyGame\\QuanLyGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71371BD-89DB-403A-ACB0-FACC17220CC0}|QuanLyGame\\QuanLyGame.vcxproj|D:\\QuanLyGame\\QuanLyGame\\AccountManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A71371BD-89DB-403A-ACB0-FACC17220CC0}|QuanLyGame\\QuanLyGame.vcxproj|solutionrelative:QuanLyGame\\AccountManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71371BD-89DB-403A-ACB0-FACC17220CC0}|QuanLyGame\\QuanLyGame.vcxproj|D:\\QuanLyGame\\QuanLyGame\\DefaultAcc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A71371BD-89DB-403A-ACB0-FACC17220CC0}|QuanLyGame\\QuanLyGame.vcxproj|solutionrelative:QuanLyGame\\DefaultAcc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71371BD-89DB-403A-ACB0-FACC17220CC0}|QuanLyGame\\QuanLyGame.vcxproj|D:\\QuanLyGame\\QuanLyGame\\Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A71371BD-89DB-403A-ACB0-FACC17220CC0}|QuanLyGame\\QuanLyGame.vcxproj|solutionrelative:QuanLyGame\\Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A71371BD-89DB-403A-ACB0-FACC17220CC0}|QuanLyGame\\QuanLyGame.vcxproj|D:\\QuanLyGame\\QuanLyGame\\GameRPG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -19,14 +35,6 @@
       "RelativeMoniker": "D:0:0:{A71371BD-89DB-403A-ACB0-FACC17220CC0}|QuanLyGame\\QuanLyGame.vcxproj|solutionrelative:QuanLyGame\\AccountManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A71371BD-89DB-403A-ACB0-FACC17220CC0}|QuanLyGame\\QuanLyGame.vcxproj|D:\\QuanLyGame\\QuanLyGame\\Data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A71371BD-89DB-403A-ACB0-FACC17220CC0}|QuanLyGame\\QuanLyGame.vcxproj|solutionrelative:QuanLyGame\\Data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A71371BD-89DB-403A-ACB0-FACC17220CC0}|QuanLyGame\\QuanLyGame.vcxproj|D:\\QuanLyGame\\QuanLyGame\\AccountManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A71371BD-89DB-403A-ACB0-FACC17220CC0}|QuanLyGame\\QuanLyGame.vcxproj|solutionrelative:QuanLyGame\\AccountManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A71371BD-89DB-403A-ACB0-FACC17220CC0}|QuanLyGame\\QuanLyGame.vcxproj|D:\\QuanLyGame\\QuanLyGame\\caro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A71371BD-89DB-403A-ACB0-FACC17220CC0}|QuanLyGame\\QuanLyGame.vcxproj|solutionrelative:QuanLyGame\\caro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -35,20 +43,12 @@
       "RelativeMoniker": "D:0:0:{A71371BD-89DB-403A-ACB0-FACC17220CC0}|QuanLyGame\\QuanLyGame.vcxproj|solutionrelative:QuanLyGame\\caro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A71371BD-89DB-403A-ACB0-FACC17220CC0}|QuanLyGame\\QuanLyGame.vcxproj|D:\\QuanLyGame\\QuanLyGame\\Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A71371BD-89DB-403A-ACB0-FACC17220CC0}|QuanLyGame\\QuanLyGame.vcxproj|solutionrelative:QuanLyGame\\Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A71371BD-89DB-403A-ACB0-FACC17220CC0}|QuanLyGame\\QuanLyGame.vcxproj|D:\\QuanLyGame\\QuanLyGame\\VipAcc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A71371BD-89DB-403A-ACB0-FACC17220CC0}|QuanLyGame\\QuanLyGame.vcxproj|solutionrelative:QuanLyGame\\VipAcc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A71371BD-89DB-403A-ACB0-FACC17220CC0}|QuanLyGame\\QuanLyGame.vcxproj|D:\\QuanLyGame\\QuanLyGame\\Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A71371BD-89DB-403A-ACB0-FACC17220CC0}|QuanLyGame\\QuanLyGame.vcxproj|solutionrelative:QuanLyGame\\Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A71371BD-89DB-403A-ACB0-FACC17220CC0}|QuanLyGame\\QuanLyGame.vcxproj|D:\\QuanLyGame\\QuanLyGame\\DefaultAcc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A71371BD-89DB-403A-ACB0-FACC17220CC0}|QuanLyGame\\QuanLyGame.vcxproj|solutionrelative:QuanLyGame\\DefaultAcc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A71371BD-89DB-403A-ACB0-FACC17220CC0}|QuanLyGame\\QuanLyGame.vcxproj|D:\\QuanLyGame\\QuanLyGame\\DefaultAcc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -66,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,46 +82,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AccountManager.cpp",
-              "DocumentMoniker": "D:\\QuanLyGame\\QuanLyGame\\AccountManager.cpp",
-              "RelativeDocumentMoniker": "QuanLyGame\\AccountManager.cpp",
-              "ToolTip": "D:\\QuanLyGame\\QuanLyGame\\AccountManager.cpp",
-              "RelativeToolTip": "QuanLyGame\\AccountManager.cpp",
-              "ViewState": "AQIAAJMAAAAAAAAAAAAkwKcAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-26T03:04:40.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AccountManager.h",
-              "DocumentMoniker": "D:\\QuanLyGame\\QuanLyGame\\AccountManager.h",
-              "RelativeDocumentMoniker": "QuanLyGame\\AccountManager.h",
-              "ToolTip": "D:\\QuanLyGame\\QuanLyGame\\AccountManager.h",
-              "RelativeToolTip": "QuanLyGame\\AccountManager.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-26T13:26:56.133Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Data.txt",
               "DocumentMoniker": "D:\\QuanLyGame\\QuanLyGame\\Data.txt",
               "RelativeDocumentMoniker": "QuanLyGame\\Data.txt",
               "ToolTip": "D:\\QuanLyGame\\QuanLyGame\\Data.txt",
               "RelativeToolTip": "QuanLyGame\\Data.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-08-26T02:41:53.286Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "GameRPG.cpp",
               "DocumentMoniker": "D:\\QuanLyGame\\QuanLyGame\\GameRPG.cpp",
               "RelativeDocumentMoniker": "QuanLyGame\\GameRPG.cpp",
@@ -129,12 +103,11 @@
               "RelativeToolTip": "QuanLyGame\\GameRPG.cpp",
               "ViewState": "AQIAAAoAAAAAAAAAAAAAABoAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-26T04:34:49.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T04:34:49.657Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "GameRPG.h",
               "DocumentMoniker": "D:\\QuanLyGame\\QuanLyGame\\GameRPG.h",
               "RelativeDocumentMoniker": "QuanLyGame\\GameRPG.h",
@@ -142,12 +115,11 @@
               "RelativeToolTip": "QuanLyGame\\GameRPG.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-26T04:33:03.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T04:33:03.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "caro.h",
               "DocumentMoniker": "D:\\QuanLyGame\\QuanLyGame\\caro.h",
               "RelativeDocumentMoniker": "QuanLyGame\\caro.h",
@@ -155,12 +127,11 @@
               "RelativeToolTip": "QuanLyGame\\caro.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-26T14:16:21.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T14:16:21.898Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "caro.cpp",
               "DocumentMoniker": "D:\\QuanLyGame\\QuanLyGame\\caro.cpp",
               "RelativeDocumentMoniker": "QuanLyGame\\caro.cpp",
@@ -168,25 +139,24 @@
               "RelativeToolTip": "QuanLyGame\\caro.cpp",
               "ViewState": "AQIAAEoAAAAAAAAAAAAAwGsAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-26T14:16:42.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T14:16:42.139Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "QuanLyGame.cpp",
               "DocumentMoniker": "D:\\QuanLyGame\\QuanLyGame\\QuanLyGame.cpp",
               "RelativeDocumentMoniker": "QuanLyGame\\QuanLyGame.cpp",
               "ToolTip": "D:\\QuanLyGame\\QuanLyGame\\QuanLyGame.cpp",
               "RelativeToolTip": "QuanLyGame\\QuanLyGame.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAbAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowC8AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-26T02:40:00.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Account.h",
               "DocumentMoniker": "D:\\QuanLyGame\\QuanLyGame\\Account.h",
               "RelativeDocumentMoniker": "QuanLyGame\\Account.h",
@@ -199,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "VipAcc.cpp",
               "DocumentMoniker": "D:\\QuanLyGame\\QuanLyGame\\VipAcc.cpp",
               "RelativeDocumentMoniker": "QuanLyGame\\VipAcc.cpp",
@@ -207,12 +177,11 @@
               "RelativeToolTip": "QuanLyGame\\VipAcc.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-26T13:29:03.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T13:29:03.093Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Account.cpp",
               "DocumentMoniker": "D:\\QuanLyGame\\QuanLyGame\\Account.cpp",
               "RelativeDocumentMoniker": "QuanLyGame\\Account.cpp",
@@ -220,12 +189,11 @@
               "RelativeToolTip": "QuanLyGame\\Account.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-26T13:32:18.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T13:32:18.652Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "DefaultAcc.h",
               "DocumentMoniker": "D:\\QuanLyGame\\QuanLyGame\\DefaultAcc.h",
               "RelativeDocumentMoniker": "QuanLyGame\\DefaultAcc.h",
@@ -238,6 +206,31 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountManager.cpp",
+              "DocumentMoniker": "D:\\QuanLyGame\\QuanLyGame\\AccountManager.cpp",
+              "RelativeDocumentMoniker": "QuanLyGame\\AccountManager.cpp",
+              "ToolTip": "D:\\QuanLyGame\\QuanLyGame\\AccountManager.cpp",
+              "RelativeToolTip": "QuanLyGame\\AccountManager.cpp",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAowGsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-26T03:04:40.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountManager.h",
+              "DocumentMoniker": "D:\\QuanLyGame\\QuanLyGame\\AccountManager.h",
+              "RelativeDocumentMoniker": "QuanLyGame\\AccountManager.h",
+              "ToolTip": "D:\\QuanLyGame\\QuanLyGame\\AccountManager.h",
+              "RelativeToolTip": "QuanLyGame\\AccountManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-26T13:26:56.133Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
               "Title": "DefaultAcc.cpp",
               "DocumentMoniker": "D:\\QuanLyGame\\QuanLyGame\\DefaultAcc.cpp",
@@ -246,8 +239,7 @@
               "RelativeToolTip": "QuanLyGame\\DefaultAcc.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-26T13:32:30.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T13:32:30.168Z"
             },
             {
               "$type": "Document",
@@ -259,8 +251,7 @@
               "RelativeToolTip": "QuanLyGame\\VipAcc.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-26T13:29:13.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T13:29:13.232Z"
             }
           ]
         }

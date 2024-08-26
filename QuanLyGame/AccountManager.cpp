@@ -105,7 +105,7 @@ void AccountManager::adminMenu() {
             
             case 1: {
 
-                cout << "Bonus 1000$";
+                cout << "Bonus 1000$\n";
                 cout << "Enter ID (int): ";
                 cin >> id;
                 cout << "Enter Username: ";
