@@ -13,47 +13,71 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Header Files\Game">
+      <UniqueIdentifier>{e476cfab-97fb-4439-925b-d73fb4ccbf7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Gamecpp">
+      <UniqueIdentifier>{cdf6c2ff-a0a0-4baf-a6f7-0b19f48d3551}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Account">
+      <UniqueIdentifier>{f52a70e6-dc19-4ec8-bd8b-bf8b972e9688}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\hAccount">
+      <UniqueIdentifier>{63666a67-c396-4f85-b844-c92b5d398099}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="QuanLyGame.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="GameRPG.cpp">
+      <Filter>Source Files\Gamecpp</Filter>
+    </ClCompile>
+    <ClCompile Include="caro.cpp">
+      <Filter>Source Files\Gamecpp</Filter>
+    </ClCompile>
     <ClCompile Include="Account.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Account</Filter>
     </ClCompile>
     <ClCompile Include="AccountManager.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Account</Filter>
     </ClCompile>
     <ClCompile Include="DefaultAcc.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Account</Filter>
     </ClCompile>
     <ClCompile Include="VipAcc.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Account</Filter>
     </ClCompile>
-    <ClCompile Include="GameRPG.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="bigsmallgame.cpp">
+      <Filter>Source Files\Gamecpp</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="GameRPG.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="caro.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
     <ClInclude Include="Account.h">
-      <Filter>Header Files</Filter>
+      <Filter>Header Files\hAccount</Filter>
     </ClInclude>
     <ClInclude Include="AccountManager.h">
-      <Filter>Header Files</Filter>
+      <Filter>Header Files\hAccount</Filter>
     </ClInclude>
     <ClInclude Include="DefaultAcc.h">
-      <Filter>Header Files</Filter>
+      <Filter>Header Files\hAccount</Filter>
     </ClInclude>
     <ClInclude Include="VipAcc.h">
-      <Filter>Header Files</Filter>
+      <Filter>Header Files\hAccount</Filter>
     </ClInclude>
-    <ClInclude Include="GameRPG.h">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="bigsmallgame.h">
+      <Filter>Header Files\Game</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="Data.txt">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Account</Filter>
     </Text>
   </ItemGroup>
 </Project>

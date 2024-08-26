@@ -1,6 +1,6 @@
 ﻿#include "Account.h"
 #include <iostream>
-
+using namespace std;
 Account::Account(int id, const string& username, const string& password, double balance)
     : id(id), username(username), password(password), balance(balance) {}
 
@@ -29,5 +29,6 @@ void Account::setBalance(double balance) {
 }
 
 void Account::displayAccountInfo() const {
-    cout << "ID: " << id << ", Username: " << username << ", Balance: " << balance << "\n";
+    cout << "=============================\n";
+    cout << "Info\nDefault Account\nID: " << id << "\nUsername: " << username << "\nBalance: " << balance << "\n";
 }

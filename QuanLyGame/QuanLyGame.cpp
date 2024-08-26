@@ -1,15 +1,19 @@
 ﻿#include <iostream>
 #include "AccountManager.h"
-#include "GameRPG.h"
 using namespace std;
 int main() {
     AccountManager manager;
     manager.loadData("Data.txt");
 
     string username, password;
-    cout << "Nhập Username: ";
+    cout << "======================================\n";
+    cout << "|                                     |\n";
+    cout << "|              QuanLyGame             |\n";
+    cout << "|                                     |\n";
+    cout << "======================================\n";
+    cout << "Input the Username: ";
     cin >> username;
-    cout << "Nhập Password: ";
+    cout << "Input the Password: ";
     cin >> password;
 
     if (username == "admin" && password == "admin123") {
@@ -21,10 +25,10 @@ int main() {
             manager.userMenu(user);
         }
         else {
-            cout << "Tài khoản hoặc mật khẩu không đúng\n";
+            cout << "Account or password is incorrect!\n";
         }
     }
-    //startGame();
+ 
 
     return 0;
 }

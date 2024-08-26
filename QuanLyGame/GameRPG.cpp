@@ -21,6 +21,12 @@ void Character::takeDamage(int damage) {
 
 void Character::defend() {
     isDefending = true;
+    int defenseBoost = 0;
+    if (name == "Dau si") defenseBoost = 20;
+    else if (name == "Phap su") defenseBoost = 10;
+    else if (name == "Cung thu") defenseBoost = 15;
+    health += defenseBoost;
+    cout << name << " phong thu duoc hoi " << defenseBoost << " mau! mau hien tai: " << health << endl;
     cout << name << " dang phong thu luot nay !" << endl;
 }
 
@@ -115,11 +121,18 @@ void battle(Character& player, Character& bot) {
     bot.resetDefend();
 }
 
-void startGame() {
+void gamerpg(Account* user) {
     srand(static_cast<unsigned>(time(0))); 
     cout << " Game RPG by Hoang " << endl;
     cout << " Demo - Viet Hoa, y tuong cho bai cocos " << endl;
-  
+    double bet;
+    cout << "Enter the bet amount: ";
+    cin >> bet;
+
+    if (bet > user->getBalance()) {
+        cout << "Insufficient balance to place bets.\n";
+        return;
+    }
     vector<Character*> playerTeam;
     for (int i = 0; i < 3; i++) {
         cout << "Chon loai nhan vat" <<" [ "<< i + 1 << " ]" << " cua ban (1: Dau si, 2: Phap su, 3: Cung thu): ";
@@ -158,11 +171,11 @@ void startGame() {
         displayStatus(botTeam);
 
         int playerIndex;
-        cout << "================================================" << endl;
+        cout << "\n================================================" << endl;
         cout << "Chon nhan vat cua ban de giao chien (1, 2, 3): ";
         cin >> playerIndex;
         playerIndex = playerIndex - 1;
-        if (playerIndex <= 0 || playerIndex >= playerTeam.size() || !playerTeam[playerIndex]->isAlive()) {
+        if (playerIndex < 0 || playerIndex >= playerTeam.size() || !playerTeam[playerIndex]->isAlive()) {
             cout << "Lua chon khong hop le hoac nhan vat da chet! Vui long chon lai." << endl;
             continue;
         }
@@ -193,9 +206,14 @@ void startGame() {
     }
     else if (playerTeam.empty()) {
         cout << "Bot chien thang!" << endl;
+        user->setBalance(user->getBalance() - bet);
+        cout << "Sorry! You lost.\n";
     }
     else {
         cout << "Ban chien thang!" << endl;
+        double win = user->taxEarn(bet);
+        user->setBalance(user->getBalance() + win);
+        cout << "Congratulations! You won " << win << "!\n";
     }
 
     // Giai phong bo nho

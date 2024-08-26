@@ -1,11 +1,2 @@
 ﻿  GameRPG.cpp
-  QuanLyGame.cpp
-D:\QuanLyGame\QuanLyGame\QuanLyGame.cpp(10,13): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
-D:\QuanLyGame\QuanLyGame\QuanLyGame.cpp(12,13): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
-D:\QuanLyGame\QuanLyGame\QuanLyGame.cpp(24,21): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
-D:\QuanLyGame\QuanLyGame\QuanLyGame.cpp(24,21): warning C4566: character represented by universal-character-name '\u1EB7' cannot be represented in the current code page (1252)
-D:\QuanLyGame\QuanLyGame\QuanLyGame.cpp(24,21): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
-D:\QuanLyGame\QuanLyGame\QuanLyGame.cpp(24,21): warning C4566: character represented by universal-character-name '\u1EA9' cannot be represented in the current code page (1252)
-D:\QuanLyGame\QuanLyGame\QuanLyGame.cpp(24,21): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
-  Generating Code...
   QuanLyGame.vcxproj -> D:\QuanLyGame\x64\Debug\QuanLyGame.exe

@@ -1,6 +1,8 @@
 ﻿#ifndef GAMERPG_H
 #define GAMERPG_H
-
+#include "Account.h"
+#include "VipAcc.h"
+#include "DefaultAcc.h"
 #include <string>
 #include <vector>
 using namespace std;
@@ -44,6 +46,6 @@ public:
 Character* createRandomCharacter(const string& type);
 void displayStatus(const vector<Character*>& characters);
 void battle(Character& player, Character& bot);
-void startGame(); 
+void gamerpg(Account* user);
 
 #endif // GAMERPG_H

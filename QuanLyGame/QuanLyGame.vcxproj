@@ -129,6 +129,8 @@
   <ItemGroup>
     <ClCompile Include="Account.cpp" />
     <ClCompile Include="AccountManager.cpp" />
+    <ClCompile Include="bigsmallgame.cpp" />
+    <ClCompile Include="caro.cpp" />
     <ClCompile Include="DefaultAcc.cpp" />
     <ClCompile Include="GameRPG.cpp" />
     <ClCompile Include="QuanLyGame.cpp" />
@@ -137,6 +139,8 @@
   <ItemGroup>
     <ClInclude Include="Account.h" />
     <ClInclude Include="AccountManager.h" />
+    <ClInclude Include="bigsmallgame.h" />
+    <ClInclude Include="caro.h" />
     <ClInclude Include="DefaultAcc.h" />
     <ClInclude Include="GameRPG.h" />
     <ClInclude Include="VipAcc.h" />
